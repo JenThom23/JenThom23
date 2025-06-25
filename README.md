@@ -6,8 +6,6 @@
 
 💞️ I’m looking to collaborate on epic security challenges, open-source projects that make the web a safer place, and geek out over new cybersecurity innovations! 🤝💻
 
-📫 How to reach me: jeniben28@gmail.com or hit me up on Twitter for some cybersecurity banter! 📧🐦
-
 😄 Pronouns: She/Her
 
 ⚡ Fun fact: I once stopped a phishing attack with nothing but a cup of tea and a well-placed IOC! ☕🛡️
