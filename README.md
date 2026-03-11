@@ -1,4 +1,4 @@
-👋 Hi, I’m @JenThom
+👋 Hi, I’m @JenTom
 
 👀 I’m interested in turning cyber threats into digital playgrounds and making the internet a safer place for everyone! 🌐💪
 
